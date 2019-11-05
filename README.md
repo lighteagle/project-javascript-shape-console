@@ -1,4 +1,4 @@
-#Project JavaScript Shape Console
+# Project JavaScript Shape Console
 
 - Use multiple variables to contain numbers
 - Use mathematical formula to calculate shape circumferences or areas
